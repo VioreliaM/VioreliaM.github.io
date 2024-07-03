@@ -1,0 +1,9 @@
+# Site settings
+title: Viorelia Magari Portfolio
+author:
+  name: Viorelia Magari
+  email: magari.viorelia@gmail.com
+description: "This site reflects my findings and projects"
+
+# Build settings
+remote_theme: jekyll/minima
